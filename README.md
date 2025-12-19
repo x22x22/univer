@@ -52,6 +52,7 @@ https://github.com/user-attachments/assets/7429bd5f-d769-4057-9e67-353337531024
 
 - 📈 Univer is designed to support **spreadsheets**, **documents** and **presentation**.
 - 🧙‍♀️ Univer is **isomorphic**. It can run both on browsers and Node.js (in the future, mobile devices as well), with the same API.
+  - 💡 **Frontend-Only Deployment Supported**: Core features can run entirely in the browser without a backend server. See [Frontend-Only Deployment Analysis](./docs/FRONTEND_ONLY_DEPLOYMENT.md) for details.
 - ⚙️ Univer is easily **embeddable**, allowing seamless integration into your applications.
 - 🎇 Univer is **powerful**, offering a wide range of features including **formulas**, **conditional formatting**, **data validation**, **filtering**, **collaborative editing**, **printing**, **import & export** and more features on the horizon.
 - 🔌 Univer is **highly extensible**, thanks to its *plug-in architecture* that makes it a delight for developers to implement their unique requirements on the top of Univer.
